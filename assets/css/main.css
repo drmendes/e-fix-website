@@ -2087,7 +2087,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		margin: 2.5em 0 0 0;
+		margin: 1.5em 0 0 0;
 	}
 
 		#nav > ul {
@@ -2174,11 +2174,11 @@ input, select, textarea {
 	#banner {
 		background: #CCE8F4 url("../../images/wires-banner.jpg");
 		background-position: center center;
-		background-size: auto 660%;
+		background-size: cover;
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
-		padding: 4em 0;
+		padding: 3em 0;
 		margin: 1em 0 0 0;
 	}
 
